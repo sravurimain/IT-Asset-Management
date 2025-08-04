@@ -10,7 +10,7 @@ This project automates IT asset collection using PowerShell and visualizes the d
 - Includes mock data to demonstrate realistic asset tracking and visualization
 
 ## Project Structure
-
+```text
 IT-Asset-Management/
 ├── scripts/
 │   └── export_assets.ps1         # PowerShell script for asset collection
@@ -19,7 +19,7 @@ IT-Asset-Management/
 ├── data/
 │   └── assets.csv                # Sample asset data
 └── README.md
-
+```
 
 ## Technologies Used
 
