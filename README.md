@@ -13,12 +13,13 @@ This project automates IT asset collection using PowerShell and visualizes the d
 
 IT-Asset-Management/
 ├── scripts/
-│ └── export_assets.ps1 # PowerShell script for asset collection
+│   └── export_assets.ps1         # PowerShell script for asset collection
 ├── dashboard/
-│ └── asset_dashboard.xlsx # Excel dashboard with charts and metrics
+│   └── asset_dashboard.xlsx      # Excel dashboard with charts and metrics
 ├── data/
-│ └── assets.csv # Sample asset data
+│   └── assets.csv                # Sample asset data
 └── README.md
+
 
 ## Technologies Used
 
